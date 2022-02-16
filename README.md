@@ -1,2 +1,2 @@
-# LWJGUI-Mobile
-Port of LWJGUI for MiniJVM.
+# ExApp
+Example Applications for JadeFX with GLFW/MiniJVM
