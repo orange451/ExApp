@@ -3,6 +3,9 @@ Example Applications for JadeFX with GLFW/MiniJVM
 
 https://github.com/orange451/JadeFX
 
+# Deploy
+For ios deployment, see: https://github.com/orange451/jadefx_minijvm_ios
+
 # Sample POM
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
